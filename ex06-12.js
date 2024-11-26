@@ -9,7 +9,7 @@ if( cut < 11){
   document.timer.moji.value = str.substr(0,cut+1);}
   else{
     //すべて表示されたら、空文字に戻す
-  document.timer.moji.value ="";}
+  document.timer.moji.value ="";}}
 function startfnc(){
   //関数hyoji()を１０００ミリ秒間隔で呼び出す
 setlnterval("hyoji()",1000);}
