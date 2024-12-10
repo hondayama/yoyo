@@ -1,1 +1,1 @@
-function add(){var x = document.detElementById('input1').value;var y = document.detElementById('input2').value;alert(x+y);}
+function add(){var x = document.getElementById('input1').value;var y = document.getElementById('input2').value;alert(x+y);}
