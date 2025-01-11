@@ -1,1 +1,1 @@
-function (){var x = document.getElementById('input3').value;var y = document.getElementById('input4').value;alert(x/Math.pow(y,2));}
+function uruu711(){var x = document.getElementById('year711').value; if (x % Number(4) == 0){alert('閏年');} else {alert('平年')}}
